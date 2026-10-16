@@ -13,4 +13,7 @@ int main() {
     } else {
         printf("Not Equal\n");
     }
+
+    // aadsfsdgsdf
+    return 0;
 }
